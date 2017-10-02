@@ -13,8 +13,16 @@ Settings component => to disable registration for the whole system
 4. <b>Database</b> - all the clients will be stored here. You have to have client.json <br>
 Make the database public by changing the rules<br>
 <img src = "" />
-5.Adding initial user to the system =>
-Go to authentication -> Add user
+5.Adding initial user to the firebase => Go to authentication -> Add user
+
+<hr>
+Bootstrap the project
+
+```
+npm install bootstrap@4.0.0-alpha.6 jquery tether --save
+```
+Include the bootstrap path in "styles" and jquery, tether, bootstrap javascript file path in "scripts" in angular-cli.json
+
 
 
 
