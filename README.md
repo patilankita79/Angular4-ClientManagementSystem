@@ -9,8 +9,7 @@ Settings component => to disable registration for the whole system
 1.Go to https://firebase.google.com/ and log in <br>
 2. Go to console -> Add Project <br>
 3. Enable authentication => Sign in method => Set the status of provider - "Email/Password" to enable<br>
-<img src = "" />
-4. <b>Database</b> - all the clients will be stored here. You have to have client.json <br>
+<img src = "" />4. <b>Database</b> - all the clients will be stored here. You have to have client.json <br>
 Make the database public by changing the rules<br>
 <img src = "" />
 5.Adding initial user to the firebase => Go to authentication -> Add user
