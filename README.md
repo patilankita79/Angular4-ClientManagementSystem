@@ -42,7 +42,11 @@ ng g component FOLDER_NAME/NAME_Of_The_Component
 10. Settings
 11. A component for page not found, if we try to go a route that doesn't exist
 
+<hr>
 
+## Set up the routes in app.module.ts
+
+Once this is done, setup the router oulet in main app.component.html
 
 
 
