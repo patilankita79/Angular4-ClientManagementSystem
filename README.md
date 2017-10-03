@@ -25,69 +25,22 @@ Include the bootstrap path in "styles" and jquery, tether, bootstrap javascript 
 
 ## Generating components
 
+Command
+```
+ng g component FOLDER_NAME/NAME_Of_The_Component
+```
+
 1. Dashboard
-
-```
-ng g component components/dashboard
-```
-2.
-Inside Dashboard, Client component will be there
-
-```
-ng g component components/clients
-```
-
+2. Inside Dashboard, Client component will be there
 3. Inside Client component, there are client details
-
-```
-ng g component components/clientDetails
-```
-
-4. 
-```
-ng g component components/addClient
-```
-5.
-```
-ng g component components/editClient
-```
-
-6.
-```
-ng g component components/navbar
-```
-
-7.
-```
-ng g component components/sidebar
-```
-
-8.
-```
-ng g component components/login
-```
-
-9.
-```
-ng g component components/register
-```
-
-10.
-```
-ng g component components/settings
-```
-
-11. A component for page not found, if we try to go a route that doesn't exist, 
-```
-ng g component components/pageNotFound
-```
-
-
-
-
-
-
-
+4. Component to add clients
+5. Component to edit clients
+6. Navigation bar
+7. Sidebar
+8. Login
+9. Register
+10. Settings
+11. A component for page not found, if we try to go a route that doesn't exist
 
 
 
