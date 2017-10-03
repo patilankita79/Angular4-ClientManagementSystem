@@ -20,7 +20,9 @@ Bootstrap the project
 npm install bootstrap@4.0.0-alpha.6 jquery tether --save
 ```
 Include the bootstrap path in "styles" and jquery, tether, bootstrap javascript file path in "scripts" in angular-cli.json
+
 <hr>
+
 ## Generating components
 
 1. Dashboard
