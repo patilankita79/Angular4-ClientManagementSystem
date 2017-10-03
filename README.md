@@ -20,6 +20,74 @@ Bootstrap the project
 npm install bootstrap@4.0.0-alpha.6 jquery tether --save
 ```
 Include the bootstrap path in "styles" and jquery, tether, bootstrap javascript file path in "scripts" in angular-cli.json
+<hr>
+## Generating components
+
+1. Dashboard
+
+```
+ng g component components/dashboard
+```
+2.
+Inside Dashboard, Client component will be there
+
+```
+ng g component components/clients
+```
+
+3. Inside Client component, there are client details
+
+```
+ng g component components/clientDetails
+```
+
+4. 
+```
+ng g component components/addClient
+```
+5.
+```
+ng g component components/editClient
+```
+
+6.
+```
+ng g component components/navbar
+```
+
+7.
+```
+ng g component components/sidebar
+```
+
+8.
+```
+ng g component components/login
+```
+
+9.
+```
+ng g component components/register
+```
+
+10.
+```
+ng g component components/settings
+```
+
+11. A component for page not found, if we try to go a route that doesn't exist, 
+```
+ng g component components/pageNotFound
+```
+
+
+
+
+
+
+
+
+
 
 
 
