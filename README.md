@@ -48,6 +48,12 @@ ng g component FOLDER_NAME/NAME_Of_The_Component
 
 Once this is done, setup the router oulet in main app.component.html
 
+## Implementing firebase with angular
+
+```
+npm install firebase angularfire2 --save
+```
+
 
 
 
