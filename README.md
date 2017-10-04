@@ -1,5 +1,5 @@
 # Angular4-Client Management System
-A client panel/ client management system - a single page application, developed using Angular 4 for front-end and Google's firebase for backend.
+A client panel/ client management system - a single page application with full CRUD functionality, developed using Angular 4 for front-end and Google's firebase for backend.
 <hr>
 Firebase gives cloud NoSQL database along with authetication methods. User will be able to login, manage their client. All the clients will have basic information and balance they owe.  
 Settings component => to disable registration for the whole system
@@ -60,5 +60,10 @@ npm install firebase angularfire2 --save
 npm install angular2-flash-messages --save
 ```
 
+<hr>
+
+## Authentication Part
+
+Only admin will have option to register. Users other than admin will not see <b>Register</b> option
 
 
