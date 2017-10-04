@@ -54,7 +54,10 @@ Once this is done, setup the router oulet in main app.component.html
 ```
 npm install firebase angularfire2 --save
 ```
-
+<hr>
+```
+npm install angular2-flash-messages --save
+```
 
 
 
