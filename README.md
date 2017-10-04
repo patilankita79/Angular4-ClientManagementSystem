@@ -64,9 +64,21 @@ npm install angular2-flash-messages --save
 ## CRUD operations
 <hr>
 
-## Authentication Part
+## Authentication and Access Control
 
 Only admin will have option to register. Users other than admin will not see <b>Register</b> option <br>
 Setting to disable the register option
+
+Changing the database rules -> We need to be authenticated in order to read and write the data
+<img src="">
+
+Now, if you go to application, you will not see any data because permission is denied
+<img src="" />
+
+
+
+
+
+
 
 
