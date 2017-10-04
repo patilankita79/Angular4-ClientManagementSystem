@@ -61,9 +61,12 @@ npm install angular2-flash-messages --save
 ```
 
 <hr>
+## CRUD operations
+<hr>
 
 ## Authentication Part
 
-Only admin will have option to register. Users other than admin will not see <b>Register</b> option
+Only admin will have option to register. Users other than admin will not see <b>Register</b> option <br>
+Setting to disable the register option
 
 
