@@ -47,6 +47,7 @@ ng g component FOLDER_NAME/NAME_Of_The_Component
 ## Set up the routes in app.module.ts
 
 Once this is done, setup the router oulet in main app.component.html
+<hr>
 
 ## Implementing firebase with angular
 
