@@ -88,9 +88,19 @@ Clients will be shown only to the people that are logged in
 
 # Implementing auth guard for routes
 <hr>
+
 # Implementing User Registration
 
+<br>
+<hr>
 
+Building the project,
+
+```
+ng build --target=production --environment=prod
+```
+
+After successful build, all the compiled files are stored in <strong>dist</strong> folder.
 
 
 
