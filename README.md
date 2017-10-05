@@ -3,6 +3,15 @@ A client panel/ client management system - a single page application with full C
 <hr>
 Firebase gives cloud NoSQL database along with authetication methods. User will be able to login, manage their client. All the clients will have basic information and balance they owe.  
 Settings component => to disable registration for the whole system
+
+<hr>
+The application is hosted on firebase 
+https://clientmanagementsystem-d52ad.firebaseapp.com <br>
+
+To login => <br>
+Email: ankita.patil@gmail.com <br>
+Password: 123456 <br>
+
 <hr>
 
 ## Firebase Setup
